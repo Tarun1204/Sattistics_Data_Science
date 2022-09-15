@@ -1,1 +1,1 @@
-# Sattistics_Data_Science
+# Statistics_Data_Science
